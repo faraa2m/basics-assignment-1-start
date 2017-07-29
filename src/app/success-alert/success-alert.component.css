@@ -1,0 +1,16 @@
+div {
+    border: 1px solid black;
+    margin: 20px 0;
+}
+
+h2 {
+    color: darkgreen;
+    text-align: center;
+}
+
+p {
+    color: green;
+    padding: 20px;
+    text-align: justify;
+    text-justify: inter-word;
+}

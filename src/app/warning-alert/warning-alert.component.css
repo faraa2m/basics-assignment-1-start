@@ -1,0 +1,17 @@
+div {
+    border: 1px solid black;
+    margin: 20px 0;
+}
+
+h2 {
+    padding: 10px;
+    color: maroon;
+    text-align: center;
+}
+
+p {
+    color: red;
+    padding: 5px;
+    text-align: justify;
+    text-justify: inter-word;
+}
